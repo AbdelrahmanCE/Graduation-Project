@@ -1,4 +1,4 @@
-# Educate-me-Graduation-Project-
+# Educate Me (Graduation Project)
 Educate Me is a full-stack web application that transforms PDF documents into interactive study materials. Users can upload academic PDFs and instantly receive an AI-generated summary, solvable multiple-choice questions, and flashcards using modern NLP pipeline techniques.
 
 The system extracts text from PDFs, preprocesses it using NLP techniques, generates an abstractive summary, creates solvable MCQs, and produces flashcards for memorization.
