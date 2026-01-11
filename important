@@ -1,0 +1,1 @@
+It runs locally on host 5000 for backend using python app.py command and runs locally on host 3000 using npm start command.
